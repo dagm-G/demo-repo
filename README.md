@@ -1,3 +1,3 @@
-#This is a new repository
+# This is a new repository
 
-my first repo!
+my first repository!
